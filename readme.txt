@@ -1,1 +1,2 @@
-2019-10-09:start learning and using Git
+version 1.0.0:
+start learning and using Git
